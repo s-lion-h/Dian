@@ -1,0 +1,21 @@
+.delpad{
+	padding: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.list{
+	height: 410px;
+	background-color: #eeeeee;
+}
+
+.title{
+	height: 24px;
+	background-color: #444;
+}
+
+.content{
+	height: 336px;
+	background-color: #666;
+}
