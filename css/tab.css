@@ -12,10 +12,22 @@
 
 .title{
 	height: 24px;
-	background-color: #444;
+	/*background-color: #444;*/
+	
 }
 
 .content{
 	height: 336px;
-	background-color: #666;
+	/*background-color: #666;*/
+}
+
+.title-sort{
+	font-size: 1.8em;
+	color: #233;
+	font-weight: 540;
+}
+
+.title-content{
+	color: #a8a;
+
 }
