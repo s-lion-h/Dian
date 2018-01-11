@@ -1,8 +1,8 @@
 .delpad{
-	padding: 0;
-	padding-bottom: 0;
-	padding-left: 0;
-	padding-right: 0;
+	padding: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 .list{
@@ -11,7 +11,7 @@
 }
 
 .title{
-	height: 24px;
+	height: 50px;
 	/*background-color: #444;*/
 	
 }
@@ -21,13 +21,26 @@
 	/*background-color: #666;*/
 }
 
+.title-box{
+	height: 50px;
+}
+
 .title-sort{
 	font-size: 1.8em;
 	color: #233;
 	font-weight: 540;
+	padding-bottom: 0px;
 }
 
 .title-content{
 	color: #a8a;
 
+}
+.lazy-img{
+	height: 100px;
+	width: 160px;
+}
+
+.store-box{
+	height: 386px;
 }
