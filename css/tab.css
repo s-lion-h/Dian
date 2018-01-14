@@ -35,6 +35,7 @@
 .title-content{
 	color: #a8a;
 
+
 }
 .lazy-img{
 	height: 100px;
@@ -43,4 +44,10 @@
 
 .store-box{
 	height: 386px;
+}
+
+.list-content{
+	/*height: 28px;*/
+	border-bottom:1px solid #ccc;
+	padding-bottom: 10px;
 }
